@@ -1,6 +1,6 @@
 # spam-ham
 
-Data set : https://github.com/diazonic/Machine-Learning-using-sklearn/edit/master/Datasets/spam.tsv
+
 
 step-1 :- split the given data (Tokanization)
 
