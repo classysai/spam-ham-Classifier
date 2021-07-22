@@ -3,6 +3,8 @@
 Data set : https://github.com/diazonic/Machine-Learning-using-sklearn/edit/master/Datasets/spam.tsv
 
 step-1 :- split the given data (Tokanization)
+
+
 step-2 :- trian and test the data by the Pipelinevectorizer or Tfidfvectorizer from sklearn 
          * when using Pipelinevectorizer the data is trained by the fit in text_model by the SVC(support vectorizer classifier)
          * when using Tfidfvectorizer the data is trained by the fit_transform and 
